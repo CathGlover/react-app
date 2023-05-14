@@ -10,7 +10,7 @@ function App() {
       <footer>
         Open source code by Catherine, published on{" "}
         <a
-          href="https://github.com/CathGlover/new-dictionary-app"
+          href="https://github.com/CathGlover/react-app"
           target="_blank"
           rel="noopener noreferrer"
         >
